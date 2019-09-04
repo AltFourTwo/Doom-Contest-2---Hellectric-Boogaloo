@@ -1,9 +1,9 @@
-# Doom-Contest-2---Hellectric-Boogaloo
+# Doom-Contest-2-Hellectric-Boogaloo
 The map I submitted for Joel's Doom Mapping Contest in 2018
 
-In the folder you will find all the source files to create the wad file I submitted.  
-You will need a program like Slade 3 to pack them together into a wad file.  
-Map was made for GZDoom g3.2.5, you will also need your own copy of Doom II as the base wad.  
+In the folder you will the wad file I submitted.  
+You will need a program like Slade 3 to view it's contents.  
+Map was made for GZDoom g3.2.5, you will also need your own copy of Doom II as the base wad if you wish to try it out.  
 
 This work was intended only for the purpose of participating in the contest.  
 It now lies here to be part of my portfolio.
