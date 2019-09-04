@@ -7,7 +7,8 @@ Map was made for GZDoom g3.2.5, you will also need your own copy of Doom II as t
 
 Here's Joel actually playing my Map/Wad!  
 https://youtu.be/tW0XkrPoJl8?t=10946  
-Note: I think he was playing in a very low resolution to stay true to the original Doom format. This caused the text to wrap badly.
+Note: I think he was playing in a very low resolution to stay true to the original Doom format.  
+      This caused the text to wrap badly.
 
 This work was intended only for the purpose of participating in the contest.  
 It now lies here to be part of my portfolio.
