@@ -4,6 +4,7 @@ The map I submitted for Joel's Doom Mapping Contest in 2018
 In the folder you will find the wad file I submitted.  
 You will need a program like Slade 3 to view it's contents.  
 Map was made for GZDoom g3.2.5, you will also need your own copy of Doom II as the base wad if you wish to try it out.  
+
 Here's Joel actually playing my Map/Wad!  
 https://youtu.be/tW0XkrPoJl8?t=10946  
 
