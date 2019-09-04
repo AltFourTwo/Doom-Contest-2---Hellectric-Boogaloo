@@ -10,7 +10,7 @@ It now lies here to be part of my portfolio.
 All resources were publicly available.  
 Non-Commercial use only.  
 
-The "THANKS" file can be opened with a text editor.  
+The "THANKS" file within the wad can be opened with a text editor.  
 Here is it's contents  
 
 /*  
